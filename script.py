@@ -33,7 +33,7 @@ main_window.geometry("400x150")
 label_1 = tk.Label(text="You can download any youtube video you want")
 label_1.grid(column=0, row=0,)
 
-""" A label which indicate where the user must paste the link of the song """
+""" A label which indicate where the user must paste the link of the song he want to download """
 label_2 = tk.Label(text="Give me the link you want to download: ")
 label_2.grid(column=0, row=1)
 
